@@ -27,7 +27,7 @@ from bl3hotfixmod.bl3hotfixmod import Mod
 for (label, scale) in [
         ('Fast', 1000),
         ('Faster', 2500),
-        ('Insane', 5000),
+        ('Insane', 1000),
         ]:
 
     mod_filename = 'fast_levelling_{}.bl3hotfix'.format(label.lower())
