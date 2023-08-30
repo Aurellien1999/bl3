@@ -1,0 +1,63 @@
+{
+    "service_name": "customHotfixes",
+    "configuration_group": "fast_levelling_insane.bl3hotfix",
+    "configuration_version": "1.3.3.7",
+    "parameters": [
+        {
+            "key": "SparkPatchEntry-Custom-00000000",
+            "value": "(1,1,0,),/Game/GameData/Balance/Experience/Att_BaseEnemyExperience.Att_BaseEnemyExperience:ValueResolver_PlayThroughDefinedAttributeValueResolver,Value.PlaythroughOne.BaseValueConstant,0,,10000"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000001",
+            "value": "(1,1,0,),/Game/GameData/Balance/Experience/Att_BaseEnemyExperience.Att_BaseEnemyExperience:ValueResolver_PlayThroughDefinedAttributeValueResolver,Value.PlaythroughTwoAndBeyond.BaseValueConstant,0,,10000"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000002",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[0].HigherLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000003",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[0].LowerLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000004",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[1].HigherLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000005",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[1].LowerLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000006",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[2].HigherLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000007",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[2].LowerLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000008",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[3].HigherLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000009",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[3].LowerLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000010",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[4].HigherLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000011",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[4].LowerLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000012",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[5].HigherLevelEnemyExpScale,0,,1"
+        },
+        {
+            "key": "SparkPatchEntry-Custom-00000013",
+            "value": "(1,1,0,),/Game/GameData/Balance/ExperienceGlobals.ExperienceGlobals,ExpScaleByLevelDifference.ExpScaleByLevelDifference[5].LowerLevelEnemyExpScale,0,,1"
+        }
+    ]
+}
